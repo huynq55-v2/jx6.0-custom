@@ -15,4 +15,5 @@
 \settings\item\ring.txt
 \settings\item\potion.txt
 \settings\item\questkey.txt
+\settings\goods.txt
 
