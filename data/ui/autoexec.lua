@@ -102,9 +102,6 @@ AddCommand("Alt+Enter", "", "Open([[FullScreen]])")
 --AddCommand("G", "", "Open([[Follow]])")
 --AddCommand("B", "", "Open([[Call]])")
 --AddCommand("N", "", "Open([[Select]])")
-AddCommand("Alt+C", "", "Open([[ChatRoomList]])")
-AddCommand("Ctrl+B", "", "Open([[Tong]])")
-AddCommand("Ctrl+V", "", "Open([[ItemEx]])")
 
 BanChannel("HÖ thèng", "1")
 
