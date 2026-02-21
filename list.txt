@@ -16,4 +16,5 @@
 \settings\item\potion.txt
 \settings\item\questkey.txt
 \settings\goods.txt
-
+\settings\npc\player\level_exp.txt
+\settings\gamesetting.ini
